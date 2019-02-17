@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'tex';
+  font-style: normal;
+  font-weight: 400;
+  src: local('tex'), local('tex-Regular'), url(https://bglx.github.io/T1_S5/cmunrm-webfont.woff) format('woff');
+}
+
+
+html, body, .markdown-body {
+    background: #666666;
+    color: #ffffff;
+    font-family: 'tex', serif;
+    font-size: 18px;
+}
