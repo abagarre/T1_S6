@@ -12,3 +12,5 @@
 
 - ### Statistiques
 
+  [Modélisation statistique](./STATISTIQUES/HTML/1.Modelisation.html)
+
