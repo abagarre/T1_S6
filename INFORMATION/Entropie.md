@@ -76,7 +76,9 @@
 | $D_{KL}(p_x \Vert \ p_Y)= \int p_X(a)\ln\left( \frac{p_X(a)}{p_Y(a)} \right)da$ |
 
 - Divergence $\ne$ distance : pas de symétrie
-- Modèle gaussien : $D_{KL}(p_x \Vert \ p_Y)= \log\left(\frac{\sigma_2}{\sigma_1}\right)+{1 \over 2}\left(\frac{1}{\sigma_2^2}-\frac{1}{\sigma_1^2}\right)(\sigma_1^2 - \sigma_2^2) + \mu_1\left(\frac{\mu_1}{\sigma_1^2}-\frac{\mu_2}{\sigma_2^2}\right)+{1 \over 2}\left(\frac{\mu_2}{\sigma_2^2}-\frac{\mu_1}{\sigma_1^2}\right)​$
+- Modèle gaussien : $D_{KL}(p_x \Vert \ p_Y)= \log\left(\frac{\sigma_2}{\sigma_1}\right)+{1 \over 2}\left(\frac{1}{\sigma_2^2}-\frac{1}{\sigma_1^2}\right)(\sigma_1^2 - \sigma_2^2) + \mu_1\left(\frac{\mu_1}{\sigma_1^2}-\frac{\mu_2}{\sigma_2^2}\right)+{1 \over 2}\left(\frac{\mu_2}{\sigma_2^2}-\frac{\mu_1}{\sigma_1^2}\right)$
+
+
 
 ------
 
